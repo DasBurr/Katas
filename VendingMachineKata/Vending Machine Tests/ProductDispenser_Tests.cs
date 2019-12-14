@@ -17,7 +17,7 @@ namespace Vending_Machine_Tests
         public void SetUp()
         {
             _productDispenser = new ProductDispenser(new ProductFactory(), new ProductValidator());
-            _mockCola = Serialiser.SerializeObjectJson(new Product {Code = "A03", Name = "cola", Price = 1.00M, Stock = 5});
+            _mockCola = Serialiser.SerializeObjectJson(new Product {Code = "A03", Name = "cola", Price = 1.00M, Stock = 2});
             _mockChips = Serialiser.SerializeObjectJson(new Product {Code = "B13", Name = "chips", Price = 0.5M, Stock = 10});
             _mockCandy = Serialiser.SerializeObjectJson(new Product {Code = "E07", Name = "candy", Price = 0.65M, Stock = 20});
         }

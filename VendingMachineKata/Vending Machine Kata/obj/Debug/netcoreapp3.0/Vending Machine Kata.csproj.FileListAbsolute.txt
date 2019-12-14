@@ -14,3 +14,11 @@ C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Ve
 C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfo.cs
 C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.dll
 C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.deps.json
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.csprojAssemblyReference.cache
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfoInputs.cache
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfo.cs
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\git\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.pdb

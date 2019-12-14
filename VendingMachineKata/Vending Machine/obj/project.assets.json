@@ -138,11 +138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine\\Vending Machine.csproj",
+      "projectUniqueName": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine\\Vending Machine.csproj",
       "projectName": "Vending Machine",
-      "projectPath": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine\\Vending Machine.csproj",
+      "projectPath": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine\\Vending Machine.csproj",
       "packagesPath": "C:\\Users\\kmulg\\.nuget\\packages\\",
-      "outputPath": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine\\obj\\",
+      "outputPath": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -163,8 +163,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {
-              "projectPath": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj"
+            "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {
+              "projectPath": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj"
             }
           }
         }

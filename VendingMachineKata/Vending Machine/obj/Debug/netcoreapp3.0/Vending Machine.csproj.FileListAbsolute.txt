@@ -16,3 +16,21 @@ C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microso
 C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
 C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
 C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.exe
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.deps.json
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.json
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.dev.json
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.pdb
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.csprojAssemblyReference.cache
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfoInputs.cache
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfo.cs
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.csproj.CopyComplete
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.dll
+C:\git\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.pdb

@@ -21,7 +21,7 @@ namespace Vending_Machine_Kata.Classes
         {
             Products = new Dictionary<string, Product>
             {
-                {"A03",   new Product {Code = "A03", Name = "cola", Price = 1.00M, Stock = 5}},
+                {"A03",   new Product {Code = "A03", Name = "cola", Price = 1.00M, Stock = 2}},
                 {"B13", new Product {Code = "B13", Name = "chips", Price = 0.5M, Stock = 10} },
                 {"E07",  new Product {Code = "E07", Name = "candy", Price = 0.65M, Stock = 20}}
             };

@@ -7,10 +7,10 @@ namespace Vending_Machine
 {
     class Program
     {
-        public static IConfiguration Configuration { get; set; }
+
         static void Main()
         {
-            var startUp = new StartUp(Configuration);
+            var startUp = new StartUp();
 
             var serviceProvider = startUp.ConfigureServices(new ServiceCollection());
 

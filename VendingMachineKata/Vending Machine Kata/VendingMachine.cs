@@ -31,7 +31,7 @@ namespace Vending_Machine_Kata
                 if (val.Contains("|"))
                 {
                     var coinInput = val.Split('|');
-                    InsertCoin(coinInput[0], coinInput[1]);
+                    Console.WriteLine(InsertCoin(coinInput[0], coinInput[1]));
                 }
                 else if(val == "p")
                 {
@@ -42,32 +42,32 @@ namespace Vending_Machine_Kata
                 }
                 else if(val == "r")
                 {
-                    ReturnCoins();
+                    Console.WriteLine(ReturnCoins());
                 }
                 else
                 {
-                    SelectProduct(val);
+                    Console.WriteLine(SelectProduct(val));
                 }
             }
 
         }
 
-        public void InsertCoin(string weight, string size)
+        public string InsertCoin(string weight, string size)
         {
             var coinTaken = _coinOperator.TakeCoin(weight, size);
 
             if (coinTaken)
             {
                 
-                Console.WriteLine($"Balance ${_coinOperator.Balance}");
+                return $"${_coinOperator.Balance}";
             }
             else
             {
-                Console.WriteLine($"Coin returned");
+               return"Coin returned";
             }
         }
 
-        public void SelectProduct(string code)
+        public string SelectProduct(string code)
         {
             var (product, canAfford) = _productDispenser.DispenseBasicProduct(code, _coinOperator.Balance);
 
@@ -75,33 +75,31 @@ namespace Vending_Machine_Kata
             {
                 _productStock.DecreaseStock(product);
 
-                Console.WriteLine($"{product.Name} dispensed. Thank you!");
-
                 var change = _returnCoinFromSale.ReturnChangeFromPurchase(product.Price, _coinOperator.Balance);
-
-                Console.WriteLine($"${change} returned.");
 
                 _coinOperator.ResetCoins();
 
+                return $"Thank you. ${change} returned.";
+
             }
-            else if(product.Stock ==0)
+            else if(!canAfford)
             {
-                Console.WriteLine("SOLD OUT");
+                return $"INSERT COIN. ${_coinOperator.Balance}";
             }
             else
             {
-                Console.WriteLine($"INSERT COIN");
-                Console.WriteLine($"CURRENT BALANCE {_coinOperator.Balance}");
+                return "SOLD OUT";
             }
         }
 
-        public void ReturnCoins()
+        public string ReturnCoins()
         {
-            Console.WriteLine($"{_coinOperator.Balance} returned");
-            Console.WriteLine($"INSERT COIN");
-
+            var oldBalance = _coinOperator.Balance;
             _coinOperator.Balance = 0;
             _coinOperator.ResetCoins();
+
+           return $"${oldBalance} returned. INSERT COIN";
+
         }
 
     }

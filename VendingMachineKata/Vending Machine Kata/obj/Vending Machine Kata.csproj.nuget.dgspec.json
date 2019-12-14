@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {}
+    "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {}
   },
   "projects": {
-    "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {
+    "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj",
+        "projectUniqueName": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj",
         "projectName": "Vending Machine Kata",
-        "projectPath": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj",
+        "projectPath": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\Vending Machine Kata.csproj",
         "packagesPath": "C:\\Users\\kmulg\\.nuget\\packages\\",
-        "outputPath": "C:\\vsts\\Katas\\VendingMachineKata\\Vending Machine Kata\\obj\\",
+        "outputPath": "C:\\git\\Katas\\VendingMachineKata\\Vending Machine Kata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
