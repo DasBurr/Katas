@@ -1,0 +1,18 @@
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.exe
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.deps.json
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.json
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.dev.json
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.pdb
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.csprojAssemblyReference.cache
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfoInputs.cache
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfo.cs
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.pdb
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\vsts\Katas\VendingMachineKata\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.csproj.CopyComplete
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

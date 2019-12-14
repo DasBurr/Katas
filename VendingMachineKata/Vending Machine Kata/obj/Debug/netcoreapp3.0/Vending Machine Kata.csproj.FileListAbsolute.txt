@@ -1,0 +1,16 @@
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.deps.json
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.csprojAssemblyReference.cache
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfoInputs.cache
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfo.cs
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\Users\kmulgrew\Desktop\kata\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.deps.json
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\bin\Debug\netcoreapp3.0\Vending Machine Kata.pdb
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.csprojAssemblyReference.cache
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfoInputs.cache
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.AssemblyInfo.cs
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.dll
+C:\vsts\Katas\VendingMachineKata\Vending Machine Kata\obj\Debug\netcoreapp3.0\Vending Machine Kata.pdb
